@@ -1,0 +1,8 @@
+﻿  Main.cpp
+f:\programming\visualstudio\visual studio 2015\projects\officerultimate\officerultimate\player.h(35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+f:\programming\visualstudio\visual studio 2015\projects\officerultimate\officerultimate\main.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\programming\visualstudio\visual studio 2015\projects\officerultimate\officerultimate\main.cpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\programming\visualstudio\visual studio 2015\projects\officerultimate\officerultimate\main.cpp(59): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+f:\programming\visualstudio\visual studio 2015\projects\officerultimate\officerultimate\main.cpp(168): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  OfficerUltimate.vcxproj -> F:\Programming\VisualStudio\Visual Studio 2015\Projects\OfficerUltimate\Debug\OfficerUltimate.exe
+  OfficerUltimate.vcxproj -> F:\Programming\VisualStudio\Visual Studio 2015\Projects\OfficerUltimate\Debug\OfficerUltimate.pdb (Full PDB)
