@@ -1,4 +1,4 @@
 # OfficerUltimate 
 
 ## Description
-First group project in high school from C++
+First group (Arek and Kuba) project in high school from C++
